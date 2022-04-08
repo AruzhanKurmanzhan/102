@@ -1,12 +1,12 @@
 # 102
 asdfghjk
 import time
-start_time= time.time()
+start_time1= time.time1()
 def fun():
-    a=2
+    a=52
     b=3
     c=a+b
-end_time= time.time()
+end_time1= time.time1()
 fun()
-timetaken = end_time - start_time
+timetaken = end_time1 - start_time1
 print("Your program takes: ", timetaken)
